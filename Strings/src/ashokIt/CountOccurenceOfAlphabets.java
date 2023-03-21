@@ -22,15 +22,8 @@ public class CountOccurenceOfAlphabets {
 				counts.put(c, 1);
 			}
 		}
-		
-		System.out.println(counts);
-		
-		
-		
-		
+		System.out.println(counts);	
 		sc.close();
-		
-
 	}
 
 }
